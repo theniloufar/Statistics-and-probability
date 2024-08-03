@@ -13,7 +13,7 @@ This project involves building a Naive Bayes classifier in Python to categorize 
   - `books_test.csv`: Test dataset containing book descriptions for classification.
 
 - **Documentation:**
-  - `EPS_CA0_F23_V1.pdf`: A report detailing the methodology, implementation, and results of the classification project.
+  - `EPS_CA0_F23_V1.pdf`: The projects file.
 
 ## Installation
 
