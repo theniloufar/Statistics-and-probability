@@ -43,8 +43,3 @@ pip install -r requirements.txt
 
 - **[Concept 1]:** Explanation of a key concept or methodology used in the scripts.
 - **[Concept 2]:** Explanation of another important concept or approach taken in the project.
-
-## Further Exploration
-
-- **[Exploration Topic]:** Suggest potential improvements or extensions to the project.
-
