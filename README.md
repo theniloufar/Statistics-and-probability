@@ -1,2 +1,2 @@
-# Statistics-and-probability
+# Statistics-and-probability-projects
  
